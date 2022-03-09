@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+background-color:#54457F ;
+}
+
+h1{
+text-align: center;
+margin: 10% 0;
+font-size: 60px;
+}
+
+p{
+  text-align: center;
+  margin-bottom: 4%;
+  font-size: 20px;
+}
+
+.main{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.letter{
+  width: 10%;
+  margin-bottom: 3%;
+}
+
+.sub{
+margin-bottom: 5%;
+}
+
+.answer{
+  font-size: 25px;
+}
